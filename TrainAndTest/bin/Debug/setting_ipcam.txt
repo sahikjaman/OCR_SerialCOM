@@ -1,0 +1,1 @@
+rtsp://admin:spil12345@192.168.8.5:554/Streaming/Channels/101/

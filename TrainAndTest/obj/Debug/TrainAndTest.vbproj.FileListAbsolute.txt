@@ -1,0 +1,500 @@
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+c:\users\spil\documents\visual studio 2013\Projects\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\Modifikasi Vertikal\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsb1.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsb2.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsb3.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsb4.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vdm1.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vdm2.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vdm3.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vnm1.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vnm2.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsf1.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsf2.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsf3.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\vsf4.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\take 1.mp4
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 11-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Baru\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 X\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\OCR Vertical Baru Backup 15-12-2017 Xversion\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out\OCR Vertical Baru Backup 15-12-2017\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\Tambak Langon - Out - Japva  In\OCR Vertical Baru Backup 15-12-2017 ok\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017siiippp\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\File Farid Afandi\File Backup OCR\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v3.mp4
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v5.mp4
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v6.mp4
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v7.mp4
+C:\Users\spil\Documents\Backup Laptop Kantor\Berbagi\23 01 2018\OCR Vertical Baru Backup 15-12-2017x\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v8.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\v3.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\v5.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\v6.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\v7.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\v8.mp4
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbprojResolveAssemblyReference.cache
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.Cache
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\spilKontainer.ico
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\Blob.vb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\ContourWithData.vb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\DetectChars.vb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\PossiblePlate.vb
+C:\Users\spil\Documents\OCR HVE 2021\TrainAndTest\TrainAndTest\bin\Debug\setting database.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\spilKontainer.ico
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v3.mp4
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v5.mp4
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v6.mp4
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v7.mp4
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v8.mp4
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Blob.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\ContourWithData.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\DetectChars.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\PossiblePlate.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\setting database.vb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\MySql.Data.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\MySql.Data.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.cache
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.CoreCompileInputs.cache
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+C:\Users\spil\Documents\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.AssemblyReference.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\spilKontainer.ico
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v3.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v5.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v6.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v7.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\v8.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Blob.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\ContourWithData.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\DetectChars.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\PossiblePlate.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\setting database.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\MySql.Data.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\bin\Debug\MySql.Data.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.AssemblyReference.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.SuggestedBindingRedirects.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe.config
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.CoreCompileInputs.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAnd.2E0369B2.Up2Date
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\cvextern.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\msvcp120.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\msvcr120.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\opencv_ffmpeg300.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\spilKontainer.ico
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\v3.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\v5.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\v6.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\v7.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\v8.mp4
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Blob.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\ContourWithData.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\DetectChars.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\PossiblePlate.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\setting database.vb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe.config
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.exe
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.pdb
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\TrainAndTest.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\ZedGraph.dll
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Contrib.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Cuda.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.ML.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.OCR.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Shape.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Stitching.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.Superres.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.UI.GL.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.CV.VideoStab.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\Emgu.Util.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\bin\Debug\MySql.Data.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.AssemblyReference.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.SuggestedBindingRedirects.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe.config
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.frmMain.resources
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.Resources.resources
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.GenerateResource.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.vbproj.CoreCompileInputs.cache
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAnd.2E0369B2.Up2Date
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.exe
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.xml
+E:\@MAGANG\OCR\OCR HVE 2021\OCR Vertical Baru\IntegrasiFlowchart_OCR_Serial_versionc\TrainAndTest\TrainAndTest\obj\Debug\TrainAndTest.pdb

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|e:\\@magang\\ocr\\ocr hve 2021\\ocr vertical baru\\integrasiflowchart_ocr_serial_versionc\\trainandtest\\trainandtest\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\trainandtest\\setting database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\setting database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\trainandtest\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\frmmain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|e:\\@magang\\ocr\\ocr hve 2021\\ocr vertical baru\\integrasiflowchart_ocr_serial_versionc\\trainandtest\\trainandtest\\frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\frmmain.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\trainandtest\\msvcp120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\msvcp120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\trainandtest\\msvcr120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\msvcr120.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\trainandtest\\blob.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{46C428E8-C3A1-4BBF-9EAE-9366680FD4AC}|TrainAndTest\\TrainAndTest.vbproj|solutionrelative:trainandtest\\blob.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.Designer.vb",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.Designer.vb",
+              "RelativeDocumentMoniker": "TrainAndTest\\frmMain.Designer.vb",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.Designer.vb",
+              "RelativeToolTip": "TrainAndTest\\frmMain.Designer.vb",
+              "ViewState": "AgIAAFMFAAAAAAAAAAAUwHUFAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T01:55:48.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.vb",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.vb",
+              "RelativeDocumentMoniker": "TrainAndTest\\frmMain.vb",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.vb",
+              "RelativeToolTip": "TrainAndTest\\frmMain.vb",
+              "ViewState": "AgIAACgCAAAAAAAAAAAqwD4CAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T01:50:41.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.vb [Design]",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.vb",
+              "RelativeDocumentMoniker": "TrainAndTest\\frmMain.vb",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\frmMain.vb [Design]",
+              "RelativeToolTip": "TrainAndTest\\frmMain.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-15T01:50:37.759Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "msvcp120.dll",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\msvcp120.dll",
+              "RelativeDocumentMoniker": "TrainAndTest\\msvcp120.dll",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\msvcp120.dll",
+              "RelativeToolTip": "TrainAndTest\\msvcp120.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-09-15T09:18:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "msvcr120.dll",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\msvcr120.dll",
+              "RelativeDocumentMoniker": "TrainAndTest\\msvcr120.dll",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\msvcr120.dll",
+              "RelativeToolTip": "TrainAndTest\\msvcr120.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-09-15T09:18:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "setting database.vb",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\setting database.vb",
+              "RelativeDocumentMoniker": "TrainAndTest\\setting database.vb",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\setting database.vb",
+              "RelativeToolTip": "TrainAndTest\\setting database.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T09:18:25.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blob.vb",
+              "DocumentMoniker": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\Blob.vb",
+              "RelativeDocumentMoniker": "TrainAndTest\\Blob.vb",
+              "ToolTip": "E:\\@MAGANG\\OCR\\OCR HVE 2021\\OCR Vertical Baru\\IntegrasiFlowchart_OCR_Serial_versionc\\TrainAndTest\\TrainAndTest\\Blob.vb",
+              "RelativeToolTip": "TrainAndTest\\Blob.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T09:18:21.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
