@@ -2,8 +2,6 @@
 
 A Windows application written in Visual Basic .NET that performs Optical Character Recognition (OCR) and communicates over a serial (COM) port. Use it to capture text from images or the screen and send/receive data with serial devices such as microcontrollers, meters, and other instruments.
 
-> Note: This is a starter README. If parts differ from your implementation (OCR engine, target .NET version, packaging), update the relevant sections or let me know and I’ll tailor it precisely.
-
 ## Features
 - OCR text extraction from images or screenshots
 - Serial (COM) port communication (configurable COM port, baud rate, parity, data/stop bits)
